@@ -1,7 +1,6 @@
 # Telegram Channel Parser Bot
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo?style=flat-square)](https://github.com/yourusername/your-repo/stargazers)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/k1rrrkvz/Channel-Posts-Parser-Template?style=flat-square)](https://github.com/yourusername/your-repo/stargazers)
 
 ![image](https://telegram.org/img/t_logo.png)
 
