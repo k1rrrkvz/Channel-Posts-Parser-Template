@@ -20,7 +20,7 @@ This repository contains two Python scripts: `tg_parser.py` and `app.py`. Togeth
 - 🛠️ Test Telegram API features without bot restrictions.
 
 ### 🛠️ How to use?
-1. **Install the required library with the specified version:**
+ **Install the required library with the specified version:**
    ```bash
    pip install aiogram==3.17.0
    pip install telethon==1.36.0
@@ -31,7 +31,7 @@ This repository contains two Python scripts: `tg_parser.py` and `app.py`. Togeth
 To connect to Telegram via Telethon, you need API credentials (`api_id` and `api_hash`). Follow these steps to obtain them:
 
 1. **Visit the Telegram API Portal**  
-   Open your browser and go to [my.telegram.org](https://my.telegram.org).
+   - Open your browser and go to [my.telegram.org](https://my.telegram.org).
 
 2. **Log In**  
    - Enter your phone number in international format, e.g., `+79991234567`.
